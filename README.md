@@ -13,3 +13,9 @@ Agenda:
     - Domain Local
     - Global
     - Universal
+- Dateiserverberechtigung
+  - AGDLP
+  - RBAC
+- Gruppenrichtlinien
+- DC Replikation
+- DC Migration
